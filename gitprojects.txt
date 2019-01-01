@@ -1,0 +1,5 @@
+neuralplay
+theNetwork
+entools
+erlangtrain
+myapp
